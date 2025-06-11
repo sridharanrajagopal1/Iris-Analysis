@@ -70,5 +70,5 @@ iris-analysis/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/iris-analysis.git
+   git clone https://github.com/sridharanrajagopal1/iris-analysis.git
    cd iris-analysis
